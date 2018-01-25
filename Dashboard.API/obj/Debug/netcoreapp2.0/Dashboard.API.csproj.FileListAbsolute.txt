@@ -1,0 +1,10 @@
+C:\projects\Dashboard\Dashboard\dashboard.api\bin\Debug\netcoreapp2.0\Dashboard.API.deps.json
+C:\projects\Dashboard\Dashboard\dashboard.api\bin\Debug\netcoreapp2.0\Dashboard.API.runtimeconfig.json
+C:\projects\Dashboard\Dashboard\dashboard.api\bin\Debug\netcoreapp2.0\Dashboard.API.runtimeconfig.dev.json
+C:\projects\Dashboard\Dashboard\dashboard.api\bin\Debug\netcoreapp2.0\Dashboard.API.dll
+C:\projects\Dashboard\Dashboard\dashboard.api\bin\Debug\netcoreapp2.0\Dashboard.API.pdb
+C:\projects\Dashboard\Dashboard\dashboard.api\obj\Debug\netcoreapp2.0\Dashboard.API.csproj.CoreCompileInputs.cache
+C:\projects\Dashboard\Dashboard\dashboard.api\obj\Debug\netcoreapp2.0\Dashboard.API.AssemblyInfoInputs.cache
+C:\projects\Dashboard\Dashboard\dashboard.api\obj\Debug\netcoreapp2.0\Dashboard.API.AssemblyInfo.cs
+C:\projects\Dashboard\Dashboard\dashboard.api\obj\Debug\netcoreapp2.0\Dashboard.API.dll
+C:\projects\Dashboard\Dashboard\dashboard.api\obj\Debug\netcoreapp2.0\Dashboard.API.pdb
